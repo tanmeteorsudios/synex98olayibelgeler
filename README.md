@@ -1,2 +1,2 @@
 # synex98olayibelgeler
-site:"tanmeteorsudios.github.io/synex98olayibelgeler/"
+site:"https://tanmeteorsudios.github.io/synex98olayibelgeler/"
